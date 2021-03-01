@@ -17,6 +17,7 @@ body {
 }
 .letter {
   font-size: 2rem;
+  font-family:'Lobster', cursive;
   line-height: 1.874;
   padding: 2.75rem 4rem 2rem 2rem;
   color: midnightblue;
@@ -31,6 +32,7 @@ body {
 
 .wide-west {
   text-shadow: 0 1px 0 #d7ccc8;
+  font-family:'Ewert', cursive;
   text-align: center;
   height: 600px;
   background: linear-gradient(BurlyWood, Peru 30%, Peru 70%, Tan);
@@ -66,6 +68,7 @@ body {
 }
 .screenplay {
   background: LavenderBlush;
+  font-family: 'Bungee Shade', cursive;
   box-shadow: inset 0 0 30px -20px rgba(50, 0, 0, 0.4);
   padding-top: 5rem;
   position: relative;
